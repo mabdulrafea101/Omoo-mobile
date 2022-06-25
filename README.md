@@ -1,0 +1,2 @@
+# omoo-mobile
+flutter app
